@@ -1,4 +1,4 @@
-# Structure
+# Conventions
 
 Install
 -------
@@ -21,4 +21,4 @@ database:
 	conventions: @TomasKarlik\Conventions\Conventions
 ```
 
-Other tables use ```Nette\Database\Structure```
+Other tables use ```Nette\Database\Conventions\DiscoveredConventions```
